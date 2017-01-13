@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         Task_1 task_1 = new Task_1();
- /*       task_1.Greeting();
+        task_1.Greeting();
         task_1.ReverseInput();
         task_1.DisplayRandNums();
         task_1.DisplaySum();
@@ -17,7 +17,7 @@ public class Main {
         task_1.DividedByFiveAndSeven();
         task_1.DistinctiveDigits();
         task_1.LuckyDigits();
-        task_1.HalfSumNeighbours();*/
+        task_1.HalfSumNeighbours();
 
         Tast_2P1 task_2P1 = new Tast_2P1();
         task_2P1.ShortestLongestNum();
